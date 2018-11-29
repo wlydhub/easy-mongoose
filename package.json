@@ -1,0 +1,23 @@
+{
+  "name": "easy-mongoose-for-lib",
+  "version": "1.0.1",
+  "description": "let you use mongoose will easy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wlydhub/easy-mongoose-for-lib.git"
+  },
+  "keywords": [
+    "mongoose",
+    "easy"
+  ],
+  "author": "wly",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wlydhub/easy-mongoose-for-lib/issues"
+  },
+  "homepage": "https://github.com/wlydhub/easy-mongoose-for-lib#readme"
+}
